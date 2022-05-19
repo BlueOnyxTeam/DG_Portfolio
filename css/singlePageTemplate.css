@@ -73,9 +73,9 @@ ul li:hover a {
 }
 /* Hero Section */
 .hero {
-	background-color: #B3B3B3;
-	padding-top: 150px;
-	padding-bottom: 150px;
+    background-color: #B3B3B3;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 .light {
 	font-weight: bold;
@@ -126,10 +126,9 @@ ul li:hover a {
 	margin-bottom: 0px;
 }
 .thumbnail {
-	width: 25%;
-	text-align: center;
-	float: left;
-	margin-top: 35px;
+    width: 25%;
+    text-align: center;
+    float: left;
 }
 .gallery .thumbnail h4 {
 	margin-top: 5px;
